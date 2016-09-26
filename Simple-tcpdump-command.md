@@ -73,3 +73,4 @@
     <pre>
     root@bertopeng17-ThinkPad-T520:/home/bertopeng17# <b>tcpdump -s 1514 port 80 -w capture_file.cpp</b>
     </pre>
+  <b>tcpdump -s 1514 port 80 -w capture_file.cpp</b> [[Outputfile] ](https://github.com/Telmat2015/TCPdump/blob/master/outputfile/outputfileport80) 
