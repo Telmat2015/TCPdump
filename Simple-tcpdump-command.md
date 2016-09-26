@@ -13,6 +13,9 @@
 
 
 2.  <b>-n</b>: <i>do not resolve DNS</i><br>
+  <pre>
+  root@bertopeng17-ThinkPad-T520:/home/bertopeng17# <b>tcpdump -n wlp3s0</b>
+  </pre>
   ![alt tag](https://github.com/Telmat2015/TCPdump/blob/master/image/Screenshot%20from%202016-09-26%2020-24-43.png)
 
 
