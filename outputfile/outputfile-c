@@ -1,0 +1,10 @@
+22:30:42.709407 IP sa-in-f189.1e100.net.https > 192.168.1.10.43986: Flags [P.], seq 842763992:842764053, ack 154614191, win 630, options [nop,nop,TS val 288404644 ecr 6556936], length 61
+22:30:42.709451 IP 192.168.1.10.43986 > sa-in-f189.1e100.net.https: Flags [.], ack 61, win 732, options [nop,nop,TS val 6564029 ecr 288404644], length 0
+22:30:42.709607 IP sa-in-f189.1e100.net.https > 192.168.1.10.43986: Flags [P.], seq 61:99, ack 1, win 630, options [nop,nop,TS val 288404644 ecr 6556936], length 38
+22:30:42.709621 IP 192.168.1.10.43986 > sa-in-f189.1e100.net.https: Flags [.], ack 99, win 732, options [nop,nop,TS val 6564029 ecr 288404644], length 0
+22:30:42.715793 IP 192.168.1.10.43986 > sa-in-f189.1e100.net.https: Flags [P.], seq 1:233, ack 99, win 732, options [nop,nop,TS val 6564031 ecr 288404644], length 232
+22:30:42.745137 IP sa-in-f189.1e100.net.https > 192.168.1.10.43986: Flags [P.], seq 99:145, ack 1, win 630, options [nop,nop,TS val 288404680 ecr 6564029], length 46
+22:30:42.745384 IP 192.168.1.10.43986 > sa-in-f189.1e100.net.https: Flags [P.], seq 233:279, ack 145, win 732, options [nop,nop,TS val 6564038 ecr 288404680], length 46
+22:30:42.754042 IP sa-in-f189.1e100.net.https > 192.168.1.10.43986: Flags [.], ack 233, win 649, options [nop,nop,TS val 288404688 ecr 6564031], length 0
+22:30:42.781305 IP sa-in-f189.1e100.net.https > 192.168.1.10.43986: Flags [.], ack 279, win 649, options [nop,nop,TS val 288404715 ecr 6564038], length 0
+22:30:42.796594 IP6 fe80::a959:335:80f7:f6c0.28027 > fe80::1.domain: 1055+ PTR? 10.1.168.192.in-addr.arpa. (43)
