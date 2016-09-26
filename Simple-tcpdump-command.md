@@ -11,7 +11,7 @@
   ![alt tag](https://github.com/Telmat2015/TCPdump/blob/master/image/Screenshot%20from%202016-09-26%2015-46-22.png)
   ![alt tag](https://github.com/Telmat2015/TCPdump/blob/master/image/Screenshot%20from%202016-09-26%2015-50-08.png)
 
- [<b>tcpdump -i wlp3s0</b>[Outputfile ] ](https://github.com/Telmat2015/TCPdump/blob/master/outputfile/outputfile-i) 
+ <b>tcpdump -i wlp3s0</b>[[Outputfile ] ](https://github.com/Telmat2015/TCPdump/blob/master/outputfile/outputfile-i) 
  
  
 2.  <b>-n</b>: <i>do not resolve DNS</i><br>
