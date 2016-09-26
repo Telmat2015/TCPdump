@@ -60,3 +60,6 @@
   </pre>
   ![alt tag](https://github.com/Telmat2015/TCPdump/blob/master/image/Screenshot%20from%202016-09-26%2021-54-53.png)
 
+<pre>
+ root@bertopeng17-ThinkPad-T520:/home/bertopeng17# tcpdump -i wlp3s0 -nX host 192.168.1.1 | tee outputfile1  </pre>
+ 
