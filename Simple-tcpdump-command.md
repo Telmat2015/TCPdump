@@ -11,7 +11,7 @@
   ![alt tag](https://github.com/Telmat2015/TCPdump/blob/master/image/Screenshot%20from%202016-09-26%2015-46-22.png)
   ![alt tag](https://github.com/Telmat2015/TCPdump/blob/master/image/Screenshot%20from%202016-09-26%2015-50-08.png)
 
- <b>tcpdump -i wlp3s0</b>[[Outputfile ] ](https://github.com/Telmat2015/TCPdump/blob/master/outputfile/outputfile-i) 
+ <b>tcpdump -i wlp3s0</b> [[Outputfile ] ](https://github.com/Telmat2015/TCPdump/blob/master/outputfile/outputfile-i) 
  
  
 2.  <b>-n</b>: <i>do not resolve DNS</i><br>
@@ -20,7 +20,7 @@
   </pre>
   ![alt tag](https://github.com/Telmat2015/TCPdump/blob/master/image/Screenshot%20from%202016-09-26%2020-28-29.png)
   
-  [[Outputfile] ](https://github.com/Telmat2015/TCPdump/blob/master/outputfile/outputfile-n) 
+  <b>tcpdump -n</b> [[Outputfile] ](https://github.com/Telmat2015/TCPdump/blob/master/outputfile/outputfile-n) 
 
 
 
@@ -34,6 +34,12 @@
   root@bertopeng17-ThinkPad-T520:/home/bertopeng17# <b>tcpdump -X -A</b>
   </pre>
   ![alt tag](https://github.com/Telmat2015/TCPdump/blob/master/image/Screenshot%20from%202016-09-26%2020-34-20.png)
+
+
+  <b>tcpdump -X -A</b> [[Outputfile] ](https://github.com/Telmat2015/TCPdump/blob/master/outputfile/outputfile-n) 
+
+
+
 
 <b>-s len</b>       : Capture len Length;0 means all data<br>
 
