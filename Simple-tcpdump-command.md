@@ -44,3 +44,11 @@
   root@bertopeng17-ThinkPad-T520:/home/bertopeng17# <b>tcpdump icmp</b>
   </pre>
   ![alt tag](https://github.com/Telmat2015/TCPdump/blob/master/image/Screenshot%20from%202016-09-26%2020-55-12.png)
+
+7.  <b>tcpdump -i en1 -nX -s0 -c2 icmp</b>
+
+<pre>
+  root@bertopeng17-ThinkPad-T520:/home/bertopeng17# <b>tcpdump -i en1 -nX -s0 -c2 icmp</b>
+  </pre>
+  ![alt tag](https://github.com/Telmat2015/TCPdump/blob/master/image/Screenshot%20from%202016-09-26%2021-07-29.png)
+  ![alt tag](https://github.com/Telmat2015/TCPdump/blob/master/image/Screenshot%20from%202016-09-26%2021-07-42.png)
