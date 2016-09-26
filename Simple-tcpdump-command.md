@@ -26,7 +26,10 @@
   </pre>
   ![alt tag](https://github.com/Telmat2015/TCPdump/blob/master/image/Screenshot%20from%202016-09-26%2020-31-30.png)
 
-
+  <pre>
+  root@bertopeng17-ThinkPad-T520:/home/bertopeng17# <b>tcpdump -X -A</b>
+  </pre>
+  ![alt tag](https://github.com/Telmat2015/TCPdump/blob/master/image/Screenshot%20from%202016-09-26%2020-34-20.png)
 
 <b>-s len</b>       : Capture len Length;0 means all data<br>
 <b>-c count</b>     : caputer count packets only<br>
