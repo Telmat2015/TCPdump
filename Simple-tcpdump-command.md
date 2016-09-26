@@ -69,4 +69,7 @@
   ![alt tag](https://github.com/Telmat2015/TCPdump/blob/master/image/Screenshot%20from%202016-09-26%2021-54-53.png)
   <b>tcpdump -i wlp3s0 -nX host 192.168.1.1</b> [[Outputfile] ](https://github.com/Telmat2015/TCPdump/blob/master/outputfile/outputfilehost) 
 
- 
+ 8. <b>Capture HTTP traffice (port 80) into file </b>
+    <pre>
+    root@bertopeng17-ThinkPad-T520:/home/bertopeng17# <b>tcpdump -s 1514 port 80 -w capture_file.cpp</b>
+    </pre>
