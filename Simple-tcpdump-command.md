@@ -7,3 +7,10 @@
 <b>-s len</b>       : Capture len Length;0 means all data<br>
 <b>-c count</b>     : caputer count packets only<br>
 <b>icmp</b>         : capture only ICMP Packet<br>
+
+
+
+
+<pre>
+root@bertopeng17-ThinkPad-T520:/home/bertopeng17# <b>tcpdump -i wlp3s0</b>
+</pre>
