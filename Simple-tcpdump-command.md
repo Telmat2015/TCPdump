@@ -39,5 +39,8 @@
   </pre>
   ![alt tag](https://github.com/Telmat2015/TCPdump/blob/master/image/Screenshot%20from%202016-09-26%2020-49-34.png)
 
-
-<b>icmp</b>         : capture only ICMP Packet<br>
+6.  <b>icmp</b>: <i>capture only ICMP Packet</i><br>
+  <pre>
+  root@bertopeng17-ThinkPad-T520:/home/bertopeng17# <b>tcpdump -c 10</b>
+  </pre>
+  ![alt tag](https://github.com/Telmat2015/TCPdump/blob/master/image/Screenshot%20from%202016-09-26%2020-55-12.png)
