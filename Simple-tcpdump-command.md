@@ -52,3 +52,11 @@
   </pre>
   ![alt tag](https://github.com/Telmat2015/TCPdump/blob/master/image/Screenshot%20from%202016-09-26%2021-07-29.png)
   ![alt tag](https://github.com/Telmat2015/TCPdump/blob/master/image/Screenshot%20from%202016-09-26%2021-07-42.png)
+
+7.  <b>tcpdump -i wlp3s0 -nX host 192.168.1.1 : </b>
+
+  <pre>
+  root@bertopeng17-ThinkPad-T520:/home/bertopeng17# <b>tcpdump -i wlp3s0 -nX host 192.168.1.1</b>
+  </pre>
+  ![alt tag](https://github.com/Telmat2015/TCPdump/blob/master/image/Screenshot%20from%202016-09-26%2021-54-53.png)
+
