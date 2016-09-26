@@ -19,7 +19,15 @@
   ![alt tag](https://github.com/Telmat2015/TCPdump/blob/master/image/Screenshot%20from%202016-09-26%2020-28-29.png)
 
 
-<b>-X</b>           : display ASCII ( Can also use -A)<br>
+
+3.  <b>-X</b>: <i>display ASCII ( Can also use -A)</i><br>
+  <pre>
+  root@bertopeng17-ThinkPad-T520:/home/bertopeng17# <b>tcpdump -X</b>
+  </pre>
+  ![alt tag](https://github.com/Telmat2015/TCPdump/blob/master/image/Screenshot%20from%202016-09-26%2020-31-30.png)
+
+
+
 <b>-s len</b>       : Capture len Length;0 means all data<br>
 <b>-c count</b>     : caputer count packets only<br>
 <b>icmp</b>         : capture only ICMP Packet<br>
