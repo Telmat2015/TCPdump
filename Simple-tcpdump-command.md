@@ -38,17 +38,17 @@
 
 
 4.  <b>-c count</b>: <i>caputer count packets only</i><br>
-  <pre>
-  root@bertopeng17-ThinkPad-T520:/home/bertopeng17# <b>tcpdump -c 10</b>
-  </pre>
-  ![alt tag](https://github.com/Telmat2015/TCPdump/blob/master/image/Screenshot%20from%202016-09-26%2020-49-34.png)
-  <b>tcpdump -c 10</b> [[Outputfile] ](https://github.com/Telmat2015/TCPdump/blob/master/outputfile/outputfile-c) 
+    <pre>
+    root@bertopeng17-ThinkPad-T520:/home/bertopeng17# <b>tcpdump -c 10</b>
+    </pre>
+    ![alt tag](https://github.com/Telmat2015/TCPdump/blob/master/image/Screenshot%20from%202016-09-26%2020-49-34.png)
+    <b>tcpdump -c 10</b> [[Outputfile] ](https://github.com/Telmat2015/TCPdump/blob/master/outputfile/outputfile-c) 
 
 5.  <b>icmp</b>: <i>capture only ICMP Packet</i><br>
-  <pre>
-  root@bertopeng17-ThinkPad-T520:/home/bertopeng17# <b>tcpdump icmp</b>
-  </pre>
-  ![alt tag](https://github.com/Telmat2015/TCPdump/blob/master/image/Screenshot%20from%202016-09-26%2020-55-12.png)
+    <pre>
+    root@bertopeng17-ThinkPad-T520:/home/bertopeng17# <b>tcpdump icmp</b>
+    </pre>
+    ![alt tag](https://github.com/Telmat2015/TCPdump/blob/master/image/Screenshot%20from%202016-09-26%2020-55-12.png)
 
 6.  <b>tcpdump -i en1 -nX -s0 -c2 icmp</b>
 
