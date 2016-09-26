@@ -6,4 +6,4 @@
 <b>-n</b>       : display ASCII ( Can also use -A)<br>
 <b>-s len</b>   : Capture len Length;0 means all data<br>
 <b>-c count</b> : caputer count packets only<br>
-<b>icmp</b>    : capture only ICMP Packet<br>
+<b>icmp</b>     : capture only ICMP Packet<br>
