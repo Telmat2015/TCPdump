@@ -49,6 +49,7 @@
     root@bertopeng17-ThinkPad-T520:/home/bertopeng17# <b>tcpdump icmp</b>
     </pre>
     ![alt tag](https://github.com/Telmat2015/TCPdump/blob/master/image/Screenshot%20from%202016-09-26%2020-55-12.png)
+    <b>tcpdump icmp</b> [[Outputfile] ](https://github.com/Telmat2015/TCPdump/blob/master/outputfile/outputfile-c) 
 
 6.  <b>tcpdump -i en1 -nX -s0 -c2 icmp</b>
 
