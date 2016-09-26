@@ -1,7 +1,7 @@
 
 #### Simple tcpdump Command
 
-1.  <b>-i eth0</b>      : Capture from interface eth0<br>
+1.  <b>-i eth0</b>: <i>Capture from interface eth0</i><br>
 
 
 
